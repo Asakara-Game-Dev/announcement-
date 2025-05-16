@@ -1,8 +1,8 @@
-# Selamat Datang di Markas Asakara Game Dev! 👋
+# 📢 Announcement
 
-Halo para penjelajah dunia digital dan penggemar *game*! Selamat datang di *repository* resmi **Asakara Game Dev**. Di sinilah kami membangun mimpi-mimpi menjadi kenyataan virtual, satu baris kode dan aset kreatif dalam satu waktu.
+Halo para penjelajah dunia digital dan penggemar *game*! Selamat datang di *repository* resmi **Asakara Game Dev**.
 
-Kami adalah tim *indie game developer* yang penuh semangat, dan saat ini kami sedang fokus dalam pengembangan proyek ambisius kami: sebuah ***game pixel 2D RPG*** yang kami harap akan membawa petualangan dan nostalgia yang mendalam bagi para pemain.
+Kami memiliki pengumuman menarik untuk kalian! Saat ini, tim kami sedang dengan antusias mengembangkan proyek impian kami: sebuah ***game pixel 2D RPG*** yang kami harap akan membawa petualangan dan nostalgia yang mendalam bagi para pemain.
 
 Perlu kami sampaikan bahwa proyek ini memiliki skala yang cukup besar dan dengan gaya visual *pixel art* yang detail serta kedalaman *gameplay* RPG yang kami rancang, estimasi waktu penyelesaiannya masih memerlukan beberapa tahun ke depan.
 
